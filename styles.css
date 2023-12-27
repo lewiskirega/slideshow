@@ -4,6 +4,13 @@
     gap: 1rem;
 }
 
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    /* font-size: medium;
+    font-style: italic; */
+}
+
 /* #image1{
     background-image: url("images/Best-Estates-To-Live-In-Nakuru.jpg");
 }
